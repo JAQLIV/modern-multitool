@@ -42,9 +42,6 @@ This tool is designed with expandability in mind. To add new features:
 
 Contributions are welcome! Feel free to submit pull requests or open issues if you find improvements or bugs.
 
-## License
-
-[MIT](LICENSE)
 
 ## 📜 Disclaimer
 
