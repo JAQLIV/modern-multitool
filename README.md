@@ -3,7 +3,7 @@ A visually appealing terminal tool with multiple useful features and customizabl
 
 
 
-##  Features
+## 🔧 Features
 Elegant terminal UI with gradient colors
 15 selectable color schemes
 Quick access to various tools and websites
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Python 3.6 or higher
 Libraries listed in requirements.txt
 
-##  Customization
+##  🎨 Customization
 
 This tool is designed with expandability in mind. To add new features:
 
@@ -41,6 +41,6 @@ Contributions are welcome! Feel free to submit pull requests or open issues if y
 
 [MIT](LICENSE)
 
-## Disclaimer
+## 📜 Disclaimer
 
 This tool is for educational purposes only. The author assumes no responsibility for any misuse.
