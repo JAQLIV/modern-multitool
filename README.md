@@ -1,49 +1,46 @@
-✅# Modern Multitool Hub
+##  ✅ Modern Multitool Hub
+A visually appealing terminal tool with multiple useful features and customizable color schemes.
 
-Ein visuell ansprechendes Terminal-Tool mit mehreren nützlichen Funktionen und anpassbaren Farbschemata.
 
-![Modern Multitool Hub Screenshot](screenshot.png)
 
-## Features
+##  Features
+Elegant terminal UI with gradient colors
+15 selectable color schemes
+Quick access to various tools and websites
+Animated loading effects
+Fully customizable and extendable
+Installation
 
-- Elegante Terminal-Benutzeroberfläche mit farbigen Gradienten
-- 15 auswählbare Farbschemata
-- Schnellzugriff auf verschiedene Tools und Webseiten
-- Animierte Ladeeffekte
-- Voll anpassbar und erweiterbar
+1. Clone the repository:
+git clone https://github.com/YOUR_USERNAME/modern-multitool-hub.git  
+cd modern-multitool-hub  
 
-## Installation
-
-1. Repository klonen:
-git clone https://github.com/DEIN_USERNAME/modern-multitool-hub.git
-cd modern-multitool-hub
-
-2. Abhängigkeiten installieren:
+2. Install dependencies:
 pip install -r requirements.txt
 
-3. Tool starten:
+3. Run the tool
 
-## Anforderungen
+##  Requirements
 
-- Python 3.6 oder höher
-- Die im requirements.txt aufgeführten Bibliotheken
+Python 3.6 or higher
+Libraries listed in requirements.txt
 
-## Anpassung
+##  Customization
 
-Das Tool wurde mit Erweiterbarkeit im Hinterkopf entwickelt. Um neue Funktionen hinzuzufügen:
+This tool is designed with expandability in mind. To add new features:
 
-1. Füge einen neuen Eintrag zum `TOOLS`-Dictionary hinzu
-2. Implementiere die entsprechende Funktion
-3. Aktualisiere das Menü nach Bedarf
+1. Add a new entry to the TOOLS dictionary
+2. Implement the corresponding function
+3. Update the menu as needed
 
-## Beitragen
+##  Contributing
 
-Beiträge sind willkommen! Fühle dich frei, Pull Requests einzureichen oder Issues zu erstellen, wenn du Verbesserungen oder Fehler findest.
+Contributions are welcome! Feel free to submit pull requests or open issues if you find improvements or bugs.
 
-## Lizenz
+## License
 
 [MIT](LICENSE)
 
 ## Disclaimer
 
-Dieses Tool dient ausschließlich Bildungszwecken. Der Autor übernimmt keine Verantwortung für missbräuchliche Verwendung.
+This tool is for educational purposes only. The author assumes no responsibility for any misuse.
