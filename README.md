@@ -1,4 +1,4 @@
-# Modern Multitool Hub
+✅# Modern Multitool Hub
 
 Ein visuell ansprechendes Terminal-Tool mit mehreren nützlichen Funktionen und anpassbaren Farbschemata.
 
