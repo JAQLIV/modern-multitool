@@ -33,6 +33,11 @@ This tool is designed with expandability in mind. To add new features:
 2. Implement the corresponding function
 3. Update the menu as needed
 
+
+![Image](https://github.com/user-attachments/assets/c68647d8-fe3a-43fa-9ca7-0991e5fd7208)
+
+![Image](https://github.com/user-attachments/assets/cd5fa35a-85d5-46ae-bf35-ba03a471af23)
+
 ##  Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues if you find improvements or bugs.
