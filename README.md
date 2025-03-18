@@ -1,4 +1,4 @@
-##  ✅ Modern Multitool Hub
+##  ✅ Modern Multitool Hub (Python)
 A visually appealing terminal tool with multiple useful features and customizable color schemes.
 
 
