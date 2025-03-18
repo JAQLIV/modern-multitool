@@ -12,7 +12,7 @@ Fully customizable and extendable
 Installation
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/modern-multitool-hub.git  
+git clone https://github.com/JAQLIV/modern-multitool-hub.git  
 cd modern-multitool-hub  
 
 2. Install dependencies:
