@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/4500340f-102a-4632-8ccb-c365e6ab4079)
+
 ##  ✅ Modern Multitool Hub (Python)
 A visually appealing terminal tool with multiple useful features and customizable color schemes.
 
